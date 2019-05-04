@@ -3,7 +3,7 @@ Developed our own Phrase Embeddings of Medical data, using articles obtained fro
 
 ## Creation of Embeddings
 
-An Ubunutu server was used on Google Cloud Platform to train the embeddings, taking approximately 6 hours to developed the final embeddings.
+An Ubuntu 16 server was used on Google Cloud Platform to train the embeddings, taking approximately 6 hours to developed the final embeddings.
 
 
 ## Phrasing of text
