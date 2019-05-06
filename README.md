@@ -1,6 +1,8 @@
 # Inconsistency detection in Medical Annotations
 Developed our own Phrase Embeddings of Medical data, using articles obtained from the PubMed FTP server. Medical terms that are semantically similar were clustered together, thereby helping to identify the inconsistencies.
 
+*This project was developed as part of the onsite finals of the Smart India Hackathon, 2019. Due the an NDA, the dataset that we worked on to cluster entities could not be uploaded.*
+
 ## Creation of Embeddings
 
 An *Ubuntu 16* server was used on **Google Cloud Platform** to train the embeddings, taking approximately 6 hours to developed the final embeddings.
