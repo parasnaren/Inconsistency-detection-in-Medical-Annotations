@@ -21,4 +21,4 @@ The above formula was used to generate a score for a pair of words occurring tog
 
 **Word2Vec** was used to train these embeddings using **CBOW (Continous Bag of Words)** approach. The parameters were,
 
-**embedding dimensions = 300, context window = 3, workers=10, learning rate = 0.01, negative sampling = 5**
+*embedding dimensions = 300, context window = 3, workers=10, learning rate = 0.01, negative sampling = 5*
